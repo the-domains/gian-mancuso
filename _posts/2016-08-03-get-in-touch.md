@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-03T02:24:35.935Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f2e654-33b1-4157-9d48-73b542cdc691.jpg
+datePublished: '2016-08-03T02:24:50.927Z'
 author: []
 via: {}
-dateModified: '2016-08-03T02:23:57.757Z'
+dateModified: '2016-08-03T02:24:50.202Z'
 title: Get in Touch
 publisher: {}
 description: '@gianmancuso'
-starred: false
 sourcePath: _posts/2016-08-03-get-in-touch.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: get-in-touch/index.html
 _type: MediaObject
 
 ---
