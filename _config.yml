@@ -1,4 +1,3 @@
-layout_spectrum: 0.21766913519240916
 typography_spectrum: 0.7350216964259744
 color:
   brandStrength: 0.39600283722393215
@@ -11,5 +10,7 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.21766913519240916
 name: 'Gian Mancuso, MA PMP'
+title: An Experience Design Portfolio
 description: 'We all feel a little nostalgic for tomorrow, sometimes'
