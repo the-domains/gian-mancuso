@@ -16,5 +16,8 @@ navigation:
   - name: Get in Touch
     id: d016ec3a-818c-4678-ac11-bbe2a4776b32
     type: content
+  - name: Metaphor and Mental Models
+    id: 4f9aefef-74db-45fd-a78f-410feb415f4d
+    type: content
 title: An Experience Design Portfolio
 description: 'We all feel a little nostalgic for tomorrow, sometimes'
