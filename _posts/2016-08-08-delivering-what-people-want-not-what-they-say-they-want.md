@@ -8,17 +8,18 @@ description: >-
   Polaroid fingerstache scenester craft beer mustache butcher. Narwhal
   gluten-free kitsch kinfolk raw denim. Gastropub lumbersexual godard ramps next
   level chillwave, mixtape raw denim cardigan.
-dateModified: '2016-08-08T15:30:03.484Z'
-datePublished: '2016-08-08T15:30:04.207Z'
+dateModified: '2016-08-08T15:29:30.547Z'
+datePublished: '2016-08-08T15:29:41.420Z'
 title: 'Delivering What People Want, Not What They Say They Want'
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2016-08-08-delivering-what-people-want-not-what-they-say-they-want.md
-hasPage: true
 starred: false
-url: delivering-what-people-want-not-what-they-say-they-want/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-08-delivering-what-people-want-not-what-they-say-they-want.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b74a04b4-762a-4cde-b0c2-fb1bac0f633f.jpg)
