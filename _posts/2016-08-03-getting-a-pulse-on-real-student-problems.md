@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T02:24:37.481Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/98946497-3412-4344-a15e-841466f57f10.jpg
+datePublished: '2016-08-08T15:25:55.949Z'
 author: []
 via: {}
-dateModified: '2016-08-03T02:09:56.203Z'
+dateModified: '2016-08-08T15:25:55.613Z'
 title: Getting a Pulse on Real Student Problems
 publisher: {}
 description: >-
@@ -15,11 +13,10 @@ description: >-
   scenester skateboard narwhal chia, chillwave meh hella vegan blog. Venmo
   lumbersexual pop-up, mlkshk ennui tacos aesthetic truffaut. Helvetica pickled
   shabby chic, microdosing fap XOXO messenger bag.
-starred: false
 sourcePath: _posts/2016-08-03-getting-a-pulse-on-real-student-problems.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: getting-a-pulse-on-real-student-problems/index.html
 _type: MediaObject
 
 ---
