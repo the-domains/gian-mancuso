@@ -19,5 +19,8 @@ navigation:
   - name: Metaphor and Mental Models
     id: 4f9aefef-74db-45fd-a78f-410feb415f4d
     type: content
+  - name: Cross-Platform Design
+    id: 1219dfce-3648-423b-bee2-0cea5a29fd24
+    type: content
 title: An Experience Design Portfolio
 description: 'We all feel a little nostalgic for tomorrow, sometimes'
