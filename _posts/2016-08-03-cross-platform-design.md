@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T02:30:06.025Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ea278d9-698b-48e1-a194-7c2380af92a3.jpg
+datePublished: '2016-08-08T15:25:48.956Z'
 author: []
 via: {}
-dateModified: '2016-08-03T02:29:57.193Z'
+dateModified: '2016-08-08T15:25:48.647Z'
 title: Cross-Platform Design
 publisher: {}
 description: >-
@@ -15,11 +13,10 @@ description: >-
   scenester skateboard narwhal chia, chillwave meh hella vegan blog. Venmo
   lumbersexual pop-up, mlkshk ennui tacos aesthetic truffaut. Helvetica pickled
   shabby chic, microdosing fap XOXO messenger bag.
-starred: false
 sourcePath: _posts/2016-08-03-cross-platform-design.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: cross-platform-design/index.html
 _type: MediaObject
 
 ---
