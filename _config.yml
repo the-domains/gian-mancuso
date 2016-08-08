@@ -1,16 +1,16 @@
-typography_spectrum: 0.7350216964259744
+typography_spectrum: 0.7972661294043064
 color:
-  brandStrength: 0.39600283722393215
-  lightness: 0.011784464353695512
-  saturation: 0.4984742838423699
-  rhythmicContrast: 0.4916455140337348
+  brandStrength: 0.6623205745127052
+  lightness: 0.6278780759312212
+  saturation: 0.6540213904809207
+  rhythmicContrast: 0.9181877099908888
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.21766913519240916
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.46587610337883234
 name: 'Gian Mancuso, MA PMP'
 navigation:
   - name: Get in Touch
