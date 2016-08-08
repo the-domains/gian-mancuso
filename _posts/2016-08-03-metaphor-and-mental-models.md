@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T02:37:04.165Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d38c1e-5a82-48c8-a7da-88a49fd28524.jpg
+datePublished: '2016-08-08T15:25:43.128Z'
 author: []
 via: {}
-dateModified: '2016-08-03T02:36:28.839Z'
+dateModified: '2016-08-08T15:25:42.615Z'
 title: Metaphor and Mental Models
 publisher: {}
 description: >-
@@ -16,11 +14,10 @@ description: >-
   helvetica yuccie bespoke. Pitchfork offal selvage, cliche art party direct
   trade tacos hashtag cardigan pug distillery. Literally actually cliche
   skateboard tilde, pork belly bushwick.
-starred: false
 sourcePath: _posts/2016-08-03-metaphor-and-mental-models.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: metaphor-and-mental-models/index.html
 _type: MediaObject
 
 ---
